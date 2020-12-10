@@ -3,5 +3,25 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Kevin Steele": {
+    "firstName": "Kevin",
+    "lastName": "Steele",
+    "phoneNumber": "6464410731"
+  },
+  "Jimmy Hendrix": {
+    "firstName": "Jimmy",
+    "lastName": "Hendrix",
+    "phoneNumber": "123456789"
+  },
+  "Bobby World": {
+    "firstName": "Bobby",
+    "lastName": "World",
+    "phoneNumber": "48383445"
+  },
+  "Rick James": {
+    "firstName": "Rick",
+    "lastName": "James",
+    "phoneNumber": "3iu284748"
   }
 }
